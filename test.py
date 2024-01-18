@@ -20,6 +20,7 @@ with open('questions.txt', 'r') as file:
 # Function to calculate similarities
 def calculate_similarities(data):
     embeddings = model.encode(data)
+    print(f"sdajdkj ewkjf q: {data}")
     return util.pytorch_cos_sim(embeddings, embeddings)
 
 # Calculate similarities for questions and answers
