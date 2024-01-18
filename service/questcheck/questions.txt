@@ -1,0 +1,170 @@
+Astronomy::What's the smallest planet in the solar system?::Mercury
+Medicine::Who discovered penicillin?::Alexander Fleming
+Chemistry::What's the chemical symbol for gold?::Au
+Biology::How many legs does a spider have?::Eight
+Literature::Who is the main character in "The Odyssey"?::Odysseus
+Geography::Where is the Taj Mahal located?::Agra, India
+Mathematics::What is the square root of 64?::Eight
+Geography::Which country is the Eiffel Tower in?::France
+Nutrition::What's the primary source of vitamin C?::Oranges
+Geology::What's the hardest natural substance?::Diamond
+Geography::What's the capital of Japan?::Tokyo
+Physics::Who developed the theory of relativity?::Albert Einstein
+Biology::What gas do humans exhale?::Carbon Dioxide
+Literature::Who wrote "Pride and Prejudice"?::Jane Austen
+Physics::What is the freezing point of water?::0°C
+Chemistry::What element does 'O' represent on the periodic table?::Oxygen
+Biology::What's the largest mammal?::Blue Whale
+Computer Science::Who is known as the father of computers?::Charles Babbage
+Physics::What's the boiling point of water?::100°C
+Geography::What's the longest river in the world?::Nile River
+Geography::What's the capital of Egypt?::Cairo
+History::Who was the first woman to win a Nobel Prize?::Marie Curie
+Astronomy::What's the largest planet in the solar system?::Jupiter
+Music::How many strings does a violin have?::Four
+Language::What's the most spoken language in the world?::Mandarin
+Geography::Where is the Great Barrier Reef located?::Australia
+Biology::What's the fastest land animal?::Cheetah
+Medicine::What causes the disease malaria?::Mosquitoes
+Geography::What's the name of the longest river in Africa?::Nile
+History::Where would you find the Colosseum?::Rome, Italy
+Anatomy::What's the smallest bone in the human body?::Stapes
+Art::Who painted the "Starry Night"?::Vincent van Gogh
+Astronomy::Which planet is closest to the Sun?::Mercury
+Chemistry::What element is denoted by the symbol 'Au'?::Gold
+Physics::What's the most abundant gas in the Earth's atmosphere?::Nitrogen
+Geography::What's the capital of Canada?::Ottawa
+Space Exploration::Who was the first person to walk on the moon?::Neil Armstrong
+Geography::What's the largest desert in the world?::Sahara
+Inventions::Who invented the telephone?::Alexander Graham Bell
+Cooking::What's the main ingredient in bread?::Flour
+Biology::What's the tallest animal in the world?::Giraffe
+Anatomy::What's the biggest organ in the human body?::Skin
+Biology::What does DNA stand for?::Deoxyribonucleic Acid
+Literature::Who wrote the play "Macbeth"?::William Shakespeare
+Geography::What's the deepest part of the ocean?::Mariana Trench
+Chemistry::What's the chemical symbol for silver?::Ag
+Physics::Who discovered gravity?::Isaac Newton
+Geography::What's the smallest continent?::Australia
+Biology::What's the largest bird in the world?::Ostrich
+Geography::What's the capital of Italy?::Rome
+Politics::Who was the first female Prime Minister of the UK?::Margaret Thatcher
+Biology::What's the most common blood type?::O
+Chemistry::What's the pH of water?::7
+Literature::Who is the main character in "The Iliad"?::Achilles
+Anatomy::What's the longest bone in the human body?::Femur
+Literature::Who wrote "The Great Gatsby"?::F. Scott Fitzgerald
+Geography::What's the highest waterfall in the world?::Angel Falls
+Geography::What's the capital of Australia?::Canberra
+Inventions::Who invented the light bulb?::Thomas Edison
+Astronomy::What's the main gas in Mars' atmosphere?::Carbon Dioxide
+Space Exploration::Who was the first man in space?::Yuri Gagarin
+Astronomy::What's the densest planet in the solar system?::Earth
+Medicine::Who discovered the circulation of blood?::William Harvey
+Biology::What's the largest type of deer?::Moose
+Chemistry::What's the pH of pure water?::7
+Geography::What's the capital of China?::Beijing
+Literature::Who wrote "War and Peace"?::Leo Tolstoy
+Food::What's the primary ingredient in chocolate?::Cocoa
+Mythology::Who was the ancient Greek god of the sea?::Poseidon
+Biology::What's the fastest bird in the world?::Peregrine Falcon
+Inventions::Who invented the first successful airplane?::Wright Brothers
+Anatomy::What's the largest gland in the human body?::Liver
+Geography::What's the smallest ocean in the world?::Arctic Ocean
+Space Exploration::Who was the first female astronaut?::Valentina Tereshkova
+Chemistry::What's the most abundant element in the Earth's crust?::Oxygen
+Geography::What's the capital of Russia?::Moscow
+History::Who discovered America?::Christopher Columbus
+Biology::What's the largest reptile in the world?::Saltwater Crocodile
+Anatomy::What's the longest bone in the human body?::Femur
+Literature::Who wrote "1984"?::George Orwell
+Geography::What's the capital of India?::New Delhi
+Mythology::Who is the Greek god of war?::Ares
+Astronomy::What's the main component of the Sun?::Hydrogen
+History::Who was the first president of the United States?::George Washington
+Geography::What's the smallest country in the world?::Vatican City
+Chemistry::What's the chemical symbol for iron?::Fe
+Physics::Who discovered the law of gravity?::Isaac Newton
+Architecture::What's the tallest building in the world?::Burj Khalifa
+Literature::Who wrote "To Kill a Mockingbird"?::Harper Lee
+Geography::What's the capital of Germany?::Berlin
+Biology::What animal is known as the king of the jungle?::Lion
+Art::Who was the famous surrealist artist known for melting clocks?::Salvador Dali
+Language::What's the primary language spoken in Brazil?::Portuguese
+Literature::Who wrote "The Divine Comedy"?::Dante Alighieri
+Geography::What's the capital of the United Kingdom?::London
+Biology::What is the largest land animal?::African Elephant
+Art::Who painted "The Last Supper"?::Leonardo da Vinci
+Geography::What's the capital of Brazil?::Brasilia
+Anatomy::What's the strongest muscle in the human body?::Masseter (jaw muscle)
+Literature::Who wrote "Les Misérables"?::Victor Hugo
+Geography::What's the capital of the USA?::Washington, D.C.
+Biology::Who was the famous scientist who developed the theory of evolution?::Charles Darwin
+Geography::What's the highest mountain in North America?::Denali (Mount McKinley)
+Literature::Who wrote "The Canterbury Tales"?::Geoffrey Chaucer
+Geography::What's the capital of South Africa?::Pretoria
+Biology::What is the largest fish in the ocean?::Whale Shark
+Music::Who composed the "Moonlight Sonata"?::Ludwig van Beethoven
+Geography::What's the capital of Mexico?::Mexico City
+Astronomy::What's the most common element in the universe?::Hydrogen
+Art::Who was the famous painter of the "Girl with a Pearl Earring"?::Johannes Vermeer
+Geography::What's the capital of Japan?::Tokyo
+Literature::Who wrote "Brave New World"?::Aldous Huxley
+Biology::What's the largest bird of prey in the world?::Andean Condor
+Politics::Who was the first female Prime Minister of India?::Indira Gandhi
+Geography::What's the capital of Brazil?::Brasilia
+Art::Who was the famous artist who cut off his own ear?::Vincent van Gogh
+Biology::What's the largest flower in the world?::Rafflesia arnoldii
+Literature::Who wrote "The Picture of Dorian Gray"?::Oscar Wilde
+Geography::What's the capital of Argentina?::Buenos Aires
+Biology::What is the largest type of bear?::Polar Bear
+Music::Who composed the "Fifth Symphony"?::Ludwig van Beethoven
+Geography::What's the capital of Sweden?::Stockholm
+Food::What's the most widely eaten fish in the world?::Herring
+Literature::Who wrote "Crime and Punishment"?::Fyodor Dostoevsky
+Geography::What's the capital of Kenya?::Nairobi
+Mythology::Who was the ancient Egyptian goddess of fertility?::Isis
+Astronomy::What's the brightest star in the night sky?::Sirius
+Literature::Who wrote "A Tale of Two Cities"?::Charles Dickens
+Geography::What's the capital of Norway?::Oslo
+Geography::What's the longest river in Europe?::Volga River
+History::Who was known as the "Maid of Orleans"?::Joan of Arc
+Geography::What's the capital of Ireland?::Dublin
+Physics::Who was the famous physicist who developed the general theory of relativity?::Albert Einstein
+Geography::What's the capital of Portugal?::Lisbon
+Anatomy::What's the hardest substance in the human body?::Tooth enamel
+Literature::Who wrote "Paradise Lost"?::John Milton
+Geography::What's the capital of Greece?::Athens
+History::Who was the first emperor of Rome?::Augustus
+Geography::What's the capital of the Netherlands?::Amsterdam
+Chemistry::What's the most abundant metal in the Earth's crust?::Aluminum
+Literature::Who wrote "Don Quixote"?::Miguel de Cervantes
+Geography::What's the capital of Turkey?::Ankara
+Biology::What's the fastest aquatic animal?::Sailfish
+Music::Who composed "The Four Seasons"?::Antonio Vivaldi
+Geography::What's the capital of Switzerland?::Bern
+History::Who was the famous Greek philosopher who taught Alexander the Great?::Aristotle
+Geography::What's the longest river in the USA?::Missouri River
+Literature::Who wrote "Jane Eyre"?::Charlotte Brontë
+Geography::What's the capital of New Zealand?::Wellington
+Chemistry::What is the heaviest element?::Osmium
+Art::Who painted "Guernica"?::Pablo Picasso
+Geography::What's the capital of Belgium?::Brussels
+Astronomy::What's the largest moon of Jupiter?::Ganymede
+Philosophy::Who wrote "The Republic"?::Plato
+Geography::What's the capital of Austria?::Vienna
+Astronomy::Who was the first person to propose the heliocentric model of the universe?::Nicolaus Copernicus
+Astronomy::What's the brightest planet in the night sky?::Venus
+Literature::Who wrote "Anna Karenina"?::Leo Tolstoy
+Geography::What's the capital of Poland?::Warsaw
+Language::What is the most widely spoken language in Africa?::Swahili
+Music::Who composed "The Magic Flute"?::Wolfgang Amadeus Mozart
+Geography::What's the capital of Scotland?::Edinburgh
+Geography::What's the largest island in the Mediterranean Sea?::Sicily
+Literature::Who wrote "The Catcher in the Rye"?::J.D. Salinger
+Geography::What's the capital of Egypt?::Cairo
+Art::Who was the famous artist who sculpted "David"?::Michelangelo
+Geography::What's the capital of Hungary?::Budapest
+Space Exploration::Who was the first woman in space?::Valentina Tereshkova
+Architecture::What's the tallest building in the United States?::One World Trade Center
+Literature::Who wrote "Great Expectations"?::Charles Dickens
