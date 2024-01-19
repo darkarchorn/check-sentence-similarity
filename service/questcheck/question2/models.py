@@ -19,7 +19,7 @@ class Question2(models.Model):
     answer = models.TextField()
     prompt = models.TextField()
     hashPrompt = models.CharField(max_length=64, db_index=True)
-    embedding = models.TextField()
+    embedding = models.JSONField()
 
     class Meta:
         db_table = "question2"
@@ -55,6 +55,7 @@ class Question2(models.Model):
             embedding=embeddings.tolist(),
         )
         res, quest = self.check_existence(request.data["question"], hashPrompt)
+        print(f"abc: {hashPrompt}")
         print(res)
         print(quest)
 
@@ -102,21 +103,34 @@ class Question2(models.Model):
 
     @classmethod
     def check_existence(cls, new_question, hash_prompt):
-        new_question_embedding = model.encode(new_question)
-        instances = cls.objects.filter(hashPrompt=hash_prompt)
+        instances = cls.get_by_hash_prompt(hash_prompt)
         all_embeddings = []
         all_questions = []
 
         # Collect all embeddings from the instances
         for instance in instances:
             if instance.embedding:
-                all_embeddings.extend(instance.embedding)
-                question = instance.data
-                all_questions.extend(question)
+                all_embeddings.append(instance.embedding)
+                all_questions.append(instance.data)
 
-        # Check for cosine similarity between each pair of embeddings
-        for i in range(len(all_embeddings)):
-            similarity = util.pytorch_cos_sim(all_embeddings[i], new_question_embedding)
-            if similarity > 0.9:
-                return True, all_questions[i]
+        # Add the new question for batch processing
+        all_questions.append(new_question)
+
+        # Encode all questions to get their embeddings
+        embeddings = model.encode(all_questions)
+
+        # Compute cosine similarity
+        similarity = util.pytorch_cos_sim(embeddings, embeddings)
+
+        # Set self-similarity to -1
+        similarity[-1][-1] = -1
+
+        # Find the most similar question
+        top_similarity, top_index = similarity[-1].topk(4, largest=True)
+        for i in range(len(top_similarity)):
+            print(all_questions[i])
+
+        # Check if the most similar question is above the threshold
+        if top_similarity[0].item() > 0.9:
+            return True, [all_questions[top_index[i].item()] for i in range(4)]
         return False, None

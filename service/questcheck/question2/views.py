@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from rest_framework.decorators import api_view
 from .models import Question2
 
-
+@api_view(["GET"])
 def setData(request):
     question_instance = Question2()
     question_instance.set_data()
